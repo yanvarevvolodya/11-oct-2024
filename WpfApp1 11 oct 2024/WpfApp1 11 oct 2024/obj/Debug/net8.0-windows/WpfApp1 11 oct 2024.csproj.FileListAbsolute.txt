@@ -1,0 +1,21 @@
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\bin\Debug\net8.0-windows\WpfApp1 11 oct 2024.exe
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\bin\Debug\net8.0-windows\WpfApp1 11 oct 2024.deps.json
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\bin\Debug\net8.0-windows\WpfApp1 11 oct 2024.runtimeconfig.json
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\bin\Debug\net8.0-windows\WpfApp1 11 oct 2024.dll
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\bin\Debug\net8.0-windows\WpfApp1 11 oct 2024.pdb
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\obj\Debug\net8.0-windows\WpfApp1 11 oct 2024_MarkupCompile.cache
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\obj\Debug\net8.0-windows\WpfApp1 11 oct 2024_MarkupCompile.lref
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\obj\Debug\net8.0-windows\WpfApp1 11 oct 2024.g.resources
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\obj\Debug\net8.0-windows\WpfApp1 11 oct 2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\obj\Debug\net8.0-windows\WpfApp1 11 oct 2024.AssemblyInfoInputs.cache
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\obj\Debug\net8.0-windows\WpfApp1 11 oct 2024.AssemblyInfo.cs
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\obj\Debug\net8.0-windows\WpfApp1 11 oct 2024.csproj.CoreCompileInputs.cache
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\obj\Debug\net8.0-windows\WpfApp1 11 oct 2024.sourcelink.json
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\obj\Debug\net8.0-windows\WpfApp1 11 oct 2024.dll
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\obj\Debug\net8.0-windows\refint\WpfApp1 11 oct 2024.dll
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\obj\Debug\net8.0-windows\WpfApp1 11 oct 2024.pdb
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\obj\Debug\net8.0-windows\WpfApp1 11 oct 2024.genruntimeconfig.cache
+C:\Users\yanva\Downloads\task 11 oct 2024\WpfApp1 11 oct 2024\WpfApp1 11 oct 2024\obj\Debug\net8.0-windows\ref\WpfApp1 11 oct 2024.dll
