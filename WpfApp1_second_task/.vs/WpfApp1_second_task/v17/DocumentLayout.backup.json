@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\WpfApp1_second_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A222874-FF86-4545-8D00-02638C31FB56}|WpfApp1_second_task\\WpfApp1_second_task.csproj|c:\\users\\yanva\\downloads\\task 11 oct 2024\\wpfapp1_second_task\\wpfapp1_second_task\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2A222874-FF86-4545-8D00-02638C31FB56}|WpfApp1_second_task\\WpfApp1_second_task.csproj|solutionrelative:wpfapp1_second_task\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A222874-FF86-4545-8D00-02638C31FB56}|WpfApp1_second_task\\WpfApp1_second_task.csproj|c:\\users\\yanva\\downloads\\task 11 oct 2024\\wpfapp1_second_task\\wpfapp1_second_task\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2A222874-FF86-4545-8D00-02638C31FB56}|WpfApp1_second_task\\WpfApp1_second_task.csproj|solutionrelative:wpfapp1_second_task\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A222874-FF86-4545-8D00-02638C31FB56}|WpfApp1_second_task\\WpfApp1_second_task.csproj|c:\\users\\yanva\\downloads\\task 11 oct 2024\\wpfapp1_second_task\\wpfapp1_second_task\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A222874-FF86-4545-8D00-02638C31FB56}|WpfApp1_second_task\\WpfApp1_second_task.csproj|solutionrelative:wpfapp1_second_task\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 131,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\WpfApp1_second_task\\WpfApp1_second_task\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1_second_task\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\WpfApp1_second_task\\WpfApp1_second_task\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1_second_task\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T03:44:40.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\WpfApp1_second_task\\WpfApp1_second_task\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1_second_task\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\WpfApp1_second_task\\WpfApp1_second_task\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1_second_task\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:44:39.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\WpfApp1_second_task\\WpfApp1_second_task\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1_second_task\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\WpfApp1_second_task\\WpfApp1_second_task\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1_second_task\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-18T03:59:56.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

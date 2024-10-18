@@ -20,7 +20,9 @@
                     <RadioButton GroupName="codepage" Content="По умолчанию" Click="RadioButton_Click_3"/>
                     <RadioButton GroupName="codepage" Content="Красная" Click="RadioButton_Click"/>
                     <RadioButton GroupName="codepage" Content="Зелёная" Click="RadioButton_Click_1"/>
-                    <RadioButton GroupName="codepage" Content="Синяя" Click="RadioButton_Click_2"/>                </MenuItem>
+                    <RadioButton GroupName="codepage" Content="Синяя" Click="RadioButton_Click_2"/>
+                </MenuItem>
+
 
                 <MenuItem Header="_О программе" Click="MenuItem_Click" MouseEnter="MenuItem_MouseEnter" MouseLeave="MenuItem_MouseLeave"/>
             </Menu>
