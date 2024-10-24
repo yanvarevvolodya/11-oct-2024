@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\WpfApp1 11 oct 2024\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{043BCDA7-1530-48DD-9796-8ED7249FAB33}|WpfApp1 11 oct 2024\\WpfApp1 11 oct 2024.csproj|c:\\users\\yanva\\downloads\\task 11 oct 2024\\wpfapp1 11 oct 2024\\wpfapp1 11 oct 2024\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{043BCDA7-1530-48DD-9796-8ED7249FAB33}|WpfApp1 11 oct 2024\\WpfApp1 11 oct 2024.csproj|solutionrelative:wpfapp1 11 oct 2024\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{043BCDA7-1530-48DD-9796-8ED7249FAB33}|WpfApp1 11 oct 2024\\WpfApp1 11 oct 2024.csproj|c:\\users\\yanva\\downloads\\task 11 oct 2024\\wpfapp1 11 oct 2024\\wpfapp1 11 oct 2024\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{043BCDA7-1530-48DD-9796-8ED7249FAB33}|WpfApp1 11 oct 2024\\WpfApp1 11 oct 2024.csproj|solutionrelative:wpfapp1 11 oct 2024\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{043BCDA7-1530-48DD-9796-8ED7249FAB33}|WpfApp1 11 oct 2024\\WpfApp1 11 oct 2024.csproj|c:\\users\\yanva\\downloads\\task 11 oct 2024\\wpfapp1 11 oct 2024\\wpfapp1 11 oct 2024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{043BCDA7-1530-48DD-9796-8ED7249FAB33}|WpfApp1 11 oct 2024\\WpfApp1 11 oct 2024.csproj|solutionrelative:wpfapp1 11 oct 2024\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{043BCDA7-1530-48DD-9796-8ED7249FAB33}|WpfApp1 11 oct 2024\\WpfApp1 11 oct 2024.csproj|c:\\users\\yanva\\downloads\\task 11 oct 2024\\wpfapp1 11 oct 2024\\wpfapp1 11 oct 2024\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{043BCDA7-1530-48DD-9796-8ED7249FAB33}|WpfApp1 11 oct 2024\\WpfApp1 11 oct 2024.csproj|solutionrelative:wpfapp1 11 oct 2024\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 131,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\WpfApp1 11 oct 2024\\WpfApp1 11 oct 2024\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp1 11 oct 2024\\MainWindow.xaml",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\WpfApp1 11 oct 2024\\WpfApp1 11 oct 2024\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WpfApp1 11 oct 2024\\MainWindow.xaml",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\WpfApp1 11 oct 2024\\WpfApp1 11 oct 2024\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WpfApp1 11 oct 2024\\MainWindow.xaml.cs",
@@ -59,8 +59,7 @@
               "RelativeToolTip": "WpfApp1 11 oct 2024\\MainWindow.xaml.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAiwDgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T05:50:55.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T05:50:55.806Z"
             }
           ]
         }

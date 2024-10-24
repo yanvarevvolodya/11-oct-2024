@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfApp1_second_task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f49b2eb6fc3faf39b36038c658bff430e99e821")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+491321db75e632351e06b9f30daa5fe6c868da75")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfApp1_second_task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfApp1_second_task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
