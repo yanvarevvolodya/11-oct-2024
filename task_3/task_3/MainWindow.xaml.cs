@@ -10,6 +10,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Microsoft.Win32;
 using System.ComponentModel;
+using System.IO;
 
 namespace task_3
 {
@@ -35,5 +36,24 @@ namespace task_3
             }
         }
 
+        private void saveButton_Click(object sender, RoutedEventArgs e)
+        {
+            SaveFileDialog save = new SaveFileDialog();
+            if (save.ShowDialog() == true)
+            {
+                File.WriteAllText(save.FileName, t2.Text);
+            }
+        }
+
+        private void addFileButton_Click(object sender, RoutedEventArgs e)
+        {
+            OpenFileDialog openFile = new OpenFileDialog();
+            if (openFile.ShowDialog() == true)
+            {
+                string fileName = openFile.FileName;
+                img1.Source = new BitmapImage(new Uri(fileName));
+            }
+            
+        }
     }
 }

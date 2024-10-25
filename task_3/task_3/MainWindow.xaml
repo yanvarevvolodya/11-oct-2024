@@ -18,18 +18,20 @@
 
             <TabItem Name="tabitem2" Header="Вкладка 2">
                 <Grid>
-                    <Slider x:Name="textSizeSlider" Minimum="8" Maximum="40" Value="{Binding TextSize, Mode=TwoWay}" 
+                    <Slider Name="t1" Minimum="20" Maximum="100" Value="{Binding TextSize, Mode=TwoWay}" 
                 TickFrequency="1" IsSnapToTickEnabled="True" 
                 VerticalAlignment="Bottom" Margin="20,0,0,23"/>
-                    <TextBox FontSize="{Binding Text}" Margin="50,20,50,80" VerticalScrollBarVisibility="Auto"/>
+                    <TextBox Name="t2" FontSize="{Binding ElementName=t1, Path=Value}" Margin="50,20,50,80" VerticalScrollBarVisibility="Auto"/>
+                    <Button Name="saveButton" Content="Сохранить" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="50" Click="saveButton_Click"/>
 
                 </Grid>
             </TabItem>
 
             <TabItem Name="tabitem3" Header="Вкладка 3">
-                <Grid>
-
-                </Grid>
+                <StackPanel>
+                    <Button Name="addFileButton" Content="Загрузить картинку" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="25" Click="addFileButton_Click" />
+                    <Image Name="img1"/>
+                </StackPanel>
             </TabItem>
         </TabControl>
     </Grid>
