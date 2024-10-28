@@ -28,10 +28,12 @@
             </TabItem>
 
             <TabItem Name="tabitem3" Header="Вкладка 3">
-                <StackPanel>
+                <Grid>
                     <Button Name="addFileButton" Content="Загрузить картинку" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="25" Click="addFileButton_Click" />
-                    <Image Name="img1"/>
-                </StackPanel>
+                    <Slider Name="imageSlider" Minimum="100" Maximum="500"  TickFrequency="1" IsSnapToTickEnabled="True" 
+VerticalAlignment="Bottom" Margin="20,0,0,23"/>
+                    <Image Name="img1" Width="{Binding ElementName=imageSlider, Path=Value}" Height="{Binding ElementName=imageSlider, Path=Value}" />
+                </Grid>
             </TabItem>
         </TabControl>
     </Grid>

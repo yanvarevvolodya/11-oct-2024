@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\variant1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57CF344D-9090-4214-8A60-D3B19BDC2DA5}|variant1\\variant1.csproj|c:\\users\\yanva\\downloads\\task 11 oct 2024\\variant1\\variant1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CF344D-9090-4214-8A60-D3B19BDC2DA5}|variant1\\variant1.csproj|solutionrelative:variant1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CF344D-9090-4214-8A60-D3B19BDC2DA5}|variant1\\variant1.csproj|c:\\users\\yanva\\downloads\\task 11 oct 2024\\variant1\\variant1\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{57CF344D-9090-4214-8A60-D3B19BDC2DA5}|variant1\\variant1.csproj|solutionrelative:variant1\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CF344D-9090-4214-8A60-D3B19BDC2DA5}|variant1\\variant1.csproj|c:\\users\\yanva\\downloads\\task 11 oct 2024\\variant1\\variant1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57CF344D-9090-4214-8A60-D3B19BDC2DA5}|variant1\\variant1.csproj|solutionrelative:variant1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\variant1\\variant1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "variant1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\variant1\\variant1\\MainWindow.xaml*",
+              "RelativeToolTip": "variant1\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-25T05:49:58.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\variant1\\variant1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "variant1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\variant1\\variant1\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "variant1\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T05:49:58.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\variant1\\variant1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "variant1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\yanva\\Downloads\\task 11 oct 2024\\variant1\\variant1\\MainWindow.xaml*",
+              "RelativeToolTip": "variant1\\MainWindow.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-25T05:50:22.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
